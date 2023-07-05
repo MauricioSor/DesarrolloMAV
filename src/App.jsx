@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container';
 function App() {
 
   return (
-    <Container className='my-2 d-flex justify-content-center'>
+    <Container className='my-2 d-flex justify-content-center alig-items-center'>
     <Login ></Login>
     </Container>
   )
